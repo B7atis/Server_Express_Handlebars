@@ -1,0 +1,13 @@
+body {
+  background-color: #353b48;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  display: none;
+}
+
+a {
+  color: #f5f6fa;
+}
